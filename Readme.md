@@ -1,0 +1,1 @@
+This repo consists of few projects that i practised.
